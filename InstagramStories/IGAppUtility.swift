@@ -2,8 +2,7 @@
 //  IGAppUtility.swift
 //  InstagramStories
 //
-//  Created by Boominadha Prakash on 23/05/19.
-//  Copyright © 2019 DrawRect. All rights reserved.
+//  Created by Rustem Manafov on 03.01.23.
 //
 
 import Foundation

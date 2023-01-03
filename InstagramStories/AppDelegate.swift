@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  InstagramStories
 //
-//  Created by Ranjith Kumar on 9/6/17.
-//  Copyright © 2017 DrawRect. All rights reserved.
+//  Created by Rustem Manafov on 03.01.23.
 //
 
 import UIKit

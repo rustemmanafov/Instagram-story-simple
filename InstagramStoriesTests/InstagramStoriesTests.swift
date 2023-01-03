@@ -2,8 +2,7 @@
 //  InstagramStoriesTests.swift
 //  InstagramStoriesTests
 //
-//  Created by Ranjith Kumar on 10/23/17.
-//  Copyright © 2017 DrawRect. All rights reserved.
+//  Created by Rustem Manafov on 03.01.23.
 //
 
 import XCTest
